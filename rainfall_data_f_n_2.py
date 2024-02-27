@@ -8,13 +8,13 @@ import os
 
 # API 정보
 api_url = "https://apis.data.go.kr/1360000/AsosHourlyInfoService/getWthrDataList"
-# api_key = "XXPpuUQgJtp1l31ZSrkdw8chjKzvFiTsV0WnzolIlNTZwcDFFGFevVz3BYDkySWrEQnvsI+LsawoN5Ay/L8Fpw=="
+api_key = "XXPpuUQgJtp1l31ZSrkdw8chjKzvFiTsV0WnzolIlNTZwcDFFGFevVz3BYDkySWrEQnvsI+LsawoN5Ay/L8Fpw=="
 # api_key = "rxkMDfW0sUp0bKK69Pm+AFqVZKLpE1sLJbvpFtHjG8VeCyt700ixR+wHleQc4LfEaXAdo5tqJQQuKaMTLiieSw=="
 # api_key = "FlAVoLGfl53tXvI927Y78uTmXTk9h0QhiaLHx0S4mOe/+odeYMCNlYqFfMq2Vtt0PQxob5IaZVz+rUax8TDtBQ=="
 # api_key = "0M7+jKgHrFh6GfRh5VsZUnXcxY3axyqRZsLWG7ZR39cm0H79GLAiJDOz4wwuakeAU/GTEZQGERetTwvNMo25Tg=="
 # api_key = "c62GDjndFHkhPTvVlVE4HTrNTTIWMmvCp+mZNjOXf6FPqkBnTWNfVpoCURQsfOIhuwSIuXr6RrRjtjA3M7sjRw=="
 # api_key = "WCVWTAlB+SNJYlD4RgiLnD1f7JmGetBK70zOpd3bjDA65QpAy+/SqNHAGgE+awb2Q9IuqaGHIaxkBsIuLNBmGQ=="
-api_key = "swGAvAFGRGGL5VjnIExWlSui70kGtJLTmpfM7ENmgO7RGBavBBWcADQiYu4qIJLT9XnZFPBVvb2smYxkilYVRg=="
+# api_key = "swGAvAFGRGGL5VjnIExWlSui70kGtJLTmpfM7ENmgO7RGBavBBWcADQiYu4qIJLT9XnZFPBVvb2smYxkilYVRg=="
 # api_key = "GG55qjsKRL88I5Y64fXsjpcn1SxGoZ6R5XatGfjgQ2E4xJA2Fp05y/Eu/vHtCQcE9feo/7eQNoslqshDekELvg=="
 # api_key = "4z1aQHnp44sfEm8MWnFkx3JBvcwoQ5n0RsCwMScreJRwe7+osEbLnFNrXHw+hy7Cc1DBEyVT3bV5UfVSbydYgA=="
 # api_key = "amIPR7WhR+QAdzAbUeVDZ/88sdRd7Vzl/kAMvEyAz0DJLLQbxDfxXqxNg19z6dBHpfm2KlMWkOx2qKyhpd31Jw=="
